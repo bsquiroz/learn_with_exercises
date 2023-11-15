@@ -1,2 +1,2 @@
-def sumOfNumbers(numbers): 
-    return sum(numbers)
+def sumOfNumbers(numbers):
+    return ""

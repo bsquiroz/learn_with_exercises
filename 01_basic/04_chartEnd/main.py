@@ -1,3 +1,2 @@
 def chartEnd(word):
-    return word[-1]
-
+    return ""

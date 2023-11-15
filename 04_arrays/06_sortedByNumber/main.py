@@ -1,4 +1,2 @@
-def sortedByNumber(numbers): 
-    return [
-        sorted(numbers), sorted(numbers, reverse=True)
-    ]
+def sortedByNumber(numbers):
+    return ""

@@ -59,3 +59,7 @@
 
     OK
     ```
+
+## Nota
+
+Recuerda que siempre que te sientas estancad@, puedes ir a la rama `solution`. Allí encontrarás todas las soluciones. Y no olvides divertirte aprendiendo; ahí está el secreto, en disfrutarlo.
