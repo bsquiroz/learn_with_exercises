@@ -38,20 +38,24 @@
 
 -   `test`: el archivo que contiene las pruebas.
 
-5. Cuando termines de codificar, asegúrate de estar en la ruta correcta:
+5.  Cuando termines de codificar, asegúrate de estar en la ruta correcta:
 
     ```bash
     .../you_learn_with_exercises/04_arrays/06_sortedByNumber
     ```
 
-6. Ejecuta este comando para correr las pruebas:
+6.  Ejecuta este comando para correr las pruebas:
 
     ```bash
     python -m unittest test.py
     ```
 
-7. Si todo va bien, deberías ver algo como esto:
+7.  Si todo va bien, deberías ver algo como esto:
 
     ```bash
-    ¡Hola! Todo está bien.
+    ...
+    ----------------------------------------------------------------------
+    Ran 3 tests in 0.000s
+
+    OK
     ```
